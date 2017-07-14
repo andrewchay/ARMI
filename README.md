@@ -9,7 +9,7 @@ Hao Chai   <haochai2@gmail.com>
 
 Publication
 -------
-Analysis of Cancer Gene Expression Data with an Assisted Robust Marker Identification Approach. Genetic Epidemiology, in revision.
+Analysis of Cancer Gene Expression Data with an Assisted Robust Marker Identification Approach. Genetic Epidemiology, accepted.
 
 
 Description
